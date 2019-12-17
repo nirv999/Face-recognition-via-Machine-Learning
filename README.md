@@ -1,8 +1,7 @@
 # Face-recognition-via-Machine-Learning
-The project contains classic pure ML (no CV/DL use) algorithms and models such as PCA, SVM, Regression, etc.
-
-In order to train a model we must obtain the right data, luckily we have the AT&T Faces Database.
-this database is essential for your implemantation, hence, here is a link to download the database:
+The project contains classic pure ML (no CV/DL use) algorithms and models such as PCA, SVM, Regression, etc.<br/>
+In order to train a model we must obtain the right data, luckily we have the AT&T Faces Database.<br/>
+this database is essential for your implemantation, hence, here is a downloand link:<br/>
 https://www.kaggle.com/kasikrit/att-database-of-faces
 #### for your convinience, further explanation and more details you can read the following poster or play with the code ;)
 _________________________________________________________________________________________________
